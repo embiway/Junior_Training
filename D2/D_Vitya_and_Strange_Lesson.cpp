@@ -9,6 +9,7 @@ typedef long long ll;
 #define ff first
 #define ss second
 #define vi vector<int>
+
 #define vll vector<ll> 
 #define all(x) (x).begin() , (x).end()
 #define inf 1000000000
